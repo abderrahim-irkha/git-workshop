@@ -1,1 +1,1 @@
-Squash with pull request demo 3
+Squash demo 3
